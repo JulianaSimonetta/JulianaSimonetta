@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JulianaSimonetta
+- 👀 I’m interested in IOS development.
+- 🌱 I’m currently learning swift programming language from multiple courses on Udemy and different other pages.
+- 📫 You can reach out to me from my personal email: "jsimonetta14@outlook.com".
